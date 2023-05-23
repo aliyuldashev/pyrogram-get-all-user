@@ -1,6 +1,6 @@
 # Pyrogram Telegram Bot
 
-This Telegram bot built with Pyrogram retrieves user IDs and information when the user enters the command "/CHAT". It provides an easy way to fetch user IDs and access user information.
+This Telegram bot built with Pyrogram retrieves all user's IDs and information when the user enters the command "@CHAT" and chat id. It provides an easy way to fetch user IDs and access user information.
 
 ## Usage
 
