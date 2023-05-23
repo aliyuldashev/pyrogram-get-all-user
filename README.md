@@ -14,7 +14,8 @@ Inside the code, there is a variable named `users_information` that contains all
 
 Please exercise caution when handling users' information and ensure compliance with privacy and data protection regulations.
 
-Here the format of data this variable have```
+Here the format of data this variable have 
+```
 users_information = {
     "_": "ChatMember",
     "status": "ChatMemberStatus.MEMBER",
@@ -35,7 +36,6 @@ users_information = {
     },
     "joined_date": "2023-02-10 11:48:49"
 }
-
 ```
 Please exercise caution when handling users' information and ensure compliance with privacy and data protection regulations.
 
@@ -47,10 +47,11 @@ Please exercise caution when handling users' information and ensure compliance w
 ## Installation
 
 1. Clone the repository or download the source code.
-2. Install the required dependencies by running the following command:
-   ```shell
-   pip install pyrogram
+2. Install the required dependencies by running the following command: 
 ```
+pip install pyrogram
+```
+
 3. clone repository 
 ``` 
 git clone 
